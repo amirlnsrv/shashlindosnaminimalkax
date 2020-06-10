@@ -1,0 +1,53 @@
+body{
+    background-image: url(stakan_napitok_zhidkost_kapli_bryzgi_steklo_68178_1920x1080.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.main a:hover{
+    color: gray;
+    font-size: 35px;
+}
+.main{
+    background-image: url(stakan_napitok_zhidkost_kapli_bryzgi_steklo_68178_1920x1080.jpg);
+    height: 150px;
+    margin-left: 0%;
+    margin-right: 70%;
+    margin-top: 100px;
+    border-radius: 10%;
+}
+.main li{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.mskee{
+    background-color: black;
+    height: 2px;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: gray;
+}
+.mskee2{
+    background-color: black;
+    height: 2px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.qwerty{
+    background-image: url(2121.jpg);
+    background-size: cover;
+    height: 500px;
+    margin-left: 31%;
+    margin-top: -15%;
+    border-radius: 20%
+}
